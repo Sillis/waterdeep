@@ -1,0 +1,16 @@
+[
+    {
+        "name": "John the Unready",
+        "race": "Human",
+        "items": [
+            { "name": "Sword of Smite", "modifiers": ["Str +5", "Sta +1", "Wis +3"] }
+        ]
+    },
+    {
+        "name": "Peter the Stout",
+        "race": "Dwarf",
+        "items": [
+            { "name": "Shield of the Dawn", "modifiers": ["Str +2", "Sta +5", "Cha +1"] }
+        ]
+    }
+]
